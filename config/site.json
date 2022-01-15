@@ -2,7 +2,7 @@
   "userPrincipalName": "MuRongPIG@m1j8.onmicrosoft.com",
   "icon": "/icons/128.png",
   "title": "Spencer's OneDrive",
-  "baseDirectory": "/",
+  "baseDirectory": "/public",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
